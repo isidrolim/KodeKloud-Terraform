@@ -1,4 +1,4 @@
-# KodeKloud Terraform - Task 001: Create Key Pair Using Terraform
+# Task 001: Create Key Pair Using Terraform
 
 ## Scenario
 
